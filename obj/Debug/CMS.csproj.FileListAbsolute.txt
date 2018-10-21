@@ -1,0 +1,62 @@
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\CMS.dll.config
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\CMS.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\CMS.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\Antlr3.Runtime.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\EntityFramework.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\EntityFramework.SqlServer.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\Newtonsoft.Json.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.Helpers.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.Mvc.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.Optimization.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.Razor.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.WebPages.Deployment.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.WebPages.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.WebPages.Razor.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\WebGrease.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\EntityFramework.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\EntityFramework.SqlServer.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.Helpers.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.Mvc.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.Optimization.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.Razor.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.WebPages.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.WebPages.Deployment.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\System.Web.WebPages.Razor.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\Antlr3.Runtime.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\bin\Newtonsoft.Json.xml
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.dll
+c:\users\asus\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.pdb
+F:\CMS\CMS\bin\CMS.dll.config
+F:\CMS\CMS\bin\CMS.dll
+F:\CMS\CMS\bin\CMS.pdb
+F:\CMS\CMS\bin\Antlr3.Runtime.dll
+F:\CMS\CMS\bin\EntityFramework.dll
+F:\CMS\CMS\bin\EntityFramework.SqlServer.dll
+F:\CMS\CMS\bin\Microsoft.Web.Infrastructure.dll
+F:\CMS\CMS\bin\Newtonsoft.Json.dll
+F:\CMS\CMS\bin\PagedList.dll
+F:\CMS\CMS\bin\PagedList.Mvc.dll
+F:\CMS\CMS\bin\System.Web.Helpers.dll
+F:\CMS\CMS\bin\System.Web.Mvc.dll
+F:\CMS\CMS\bin\System.Web.Optimization.dll
+F:\CMS\CMS\bin\System.Web.Razor.dll
+F:\CMS\CMS\bin\System.Web.WebPages.Deployment.dll
+F:\CMS\CMS\bin\System.Web.WebPages.dll
+F:\CMS\CMS\bin\System.Web.WebPages.Razor.dll
+F:\CMS\CMS\bin\WebGrease.dll
+F:\CMS\CMS\bin\EntityFramework.xml
+F:\CMS\CMS\bin\EntityFramework.SqlServer.xml
+F:\CMS\CMS\bin\PagedList.xml
+F:\CMS\CMS\bin\PagedList.Mvc.xml
+F:\CMS\CMS\bin\System.Web.Helpers.xml
+F:\CMS\CMS\bin\System.Web.Mvc.xml
+F:\CMS\CMS\bin\System.Web.Optimization.xml
+F:\CMS\CMS\bin\System.Web.Razor.xml
+F:\CMS\CMS\bin\System.Web.WebPages.xml
+F:\CMS\CMS\bin\System.Web.WebPages.Deployment.xml
+F:\CMS\CMS\bin\System.Web.WebPages.Razor.xml
+F:\CMS\CMS\bin\Antlr3.Runtime.pdb
+F:\CMS\CMS\bin\Newtonsoft.Json.xml
+F:\CMS\CMS\obj\Debug\CMS.dll
+F:\CMS\CMS\obj\Debug\CMS.pdb
